@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:914px;
+  width:697px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -17,47 +17,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:864px;
-  height:224px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  line-height:28px;
-}
-#u164 {
-  border-width:0px;
-  position:absolute;
-  left:50px;
-  top:90px;
-  width:864px;
-  height:224px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  line-height:28px;
-}
-#u164_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:864px;
-  white-space:nowrap;
-}
-#u165_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
   width:196px;
   height:28px;
   background:inherit;
@@ -73,7 +32,7 @@
   font-size:20px;
   line-height:28px;
 }
-#u165 {
+#u164 {
   border-width:0px;
   position:absolute;
   left:50px;
@@ -86,7 +45,7 @@
   font-size:20px;
   line-height:28px;
 }
-#u165_text {
+#u164_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -94,7 +53,7 @@
   width:196px;
   white-space:nowrap;
 }
-#u166_img {
+#u165_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -102,7 +61,7 @@
   width:476px;
   height:2px;
 }
-#u166 {
+#u165 {
   border-width:0px;
   position:absolute;
   left:50px;
@@ -111,7 +70,7 @@
   height:1px;
   color:#F2F2F2;
 }
-#u166_text {
+#u165_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -120,7 +79,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u167_div {
+#u166_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -140,7 +99,7 @@
   font-size:14px;
   line-height:28px;
 }
-#u167 {
+#u166 {
   border-width:0px;
   position:absolute;
   left:50px;
@@ -153,7 +112,7 @@
   font-size:14px;
   line-height:28px;
 }
-#u167_text {
+#u166_text {
   border-width:0px;
   position:absolute;
   left:0px;
