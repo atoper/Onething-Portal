@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1030px;
+  width:1081px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -286,7 +286,7 @@
   left:0px;
   top:0px;
   width:699px;
-  height:532px;
+  height:504px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -306,7 +306,7 @@
   left:50px;
   top:949px;
   width:699px;
-  height:532px;
+  height:504px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
@@ -320,4 +320,40 @@
   top:0px;
   width:699px;
   white-space:nowrap;
+}
+#u275_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:476px;
+  height:2px;
+}
+#u275 {
+  border-width:0px;
+  position:absolute;
+  left:50px;
+  top:1476px;
+  width:475px;
+  height:1px;
+  color:#F2F2F2;
+}
+#u275_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u276 {
+  border-width:0px;
+  position:absolute;
+  left:981px;
+  top:1427px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
 }
