@@ -9,6 +9,9 @@
 }
 ._图片 {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -75,6 +78,8 @@
 }
 .flow_shape {
 }
+.box_1 {
+}
 .box_2 {
 }
 ._形状 {
@@ -90,7 +95,25 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
+.shape {
+  font-size:13px;
+  color:#000000;
+}
+.image {
+  font-size:13px;
+  color:#000000;
+}
+.paragraph {
   text-align:left;
 }
